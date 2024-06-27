@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmPrinters.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FrmAboutHesabix.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

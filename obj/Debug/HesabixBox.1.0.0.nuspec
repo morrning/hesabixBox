@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>HesabixBox</id>
+    <version>1.0.0</version>
+    <title>Hesabix Box</title>
+    <authors>HesabixBox</authors>
+    <projectUrl>https://hesabix.ir/</projectUrl>
+    <description>حسابیکس باکس سرویس تحت ویندوز سرویس های حسابیکس است.</description>
+    <copyright>Published Under the GNU GPL V3</copyright>
+    <repository type="git" commit="6506724b421d603be4873bb78d472d6c9376208c" />
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/favicon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\projects\HesabixBox\obj\Debug\net6.0-windows\fa-IR\HesabixBox.resources.dll" target="lib\net6.0-windows7.0\fa-IR\HesabixBox.resources.dll" />
+    <file src="C:\projects\HesabixBox\bin\Debug\net6.0-windows\HesabixBox.runtimeconfig.json" target="lib\net6.0-windows7.0\HesabixBox.runtimeconfig.json" />
+    <file src="C:\projects\HesabixBox\bin\Debug\net6.0-windows\HesabixBox.dll" target="lib\net6.0-windows7.0\HesabixBox.dll" />
+    <file src="C:\projects\HesabixBox\favicon.ico" target="content\favicon.ico" />
+    <file src="C:\projects\HesabixBox\favicon.ico" target="contentFiles\any\net6.0-windows7.0\favicon.ico" />
+  </files>
+</package>

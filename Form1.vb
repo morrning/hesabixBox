@@ -79,7 +79,7 @@ Public Class Form1
         End If
     End Sub
 
-    Private Sub خروجToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles خروجToolStripMenuItem.Click
+    Private Sub btnHideWindow_Click(sender As Object, e As EventArgs) Handles btnHideWindow.Click
         Me.WindowState = FormWindowState.Minimized
     End Sub
 End Class

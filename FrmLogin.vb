@@ -24,12 +24,7 @@ Public Class FrmLogin
         Else
             My.Settings.token = TextBox1.Text.Trim.ToString
             My.Forms.Form1.MenuStrip1.Enabled = True
-            Dim thread As New Thread(
-              Sub()
-                  Me.api.syncPersons()
-              End Sub
-            )
-            thread.Start()
+            My.Forms.Form1.Timer1.Enabled = True
             Form1.isLogin = True
             Me.Close()
         End If

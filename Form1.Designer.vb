@@ -26,8 +26,8 @@ Partial Class Form1
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         MenuStrip1 = New MenuStrip()
         اصلیToolStripMenuItem = New ToolStripMenuItem()
-        خروجToolStripMenuItem = New ToolStripMenuItem()
         btnCloseApplication = New ToolStripMenuItem()
+        btnHideWindow = New ToolStripMenuItem()
         تنظیماتToolStripMenuItem = New ToolStripMenuItem()
         btnPrinters = New ToolStripMenuItem()
         دربارهToolStripMenuItem = New ToolStripMenuItem()
@@ -50,18 +50,18 @@ Partial Class Form1
         ' اصلیToolStripMenuItem
         ' 
         resources.ApplyResources(اصلیToolStripMenuItem, "اصلیToolStripMenuItem")
-        اصلیToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {خروجToolStripMenuItem, btnCloseApplication})
+        اصلیToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {btnHideWindow, btnCloseApplication})
         اصلیToolStripMenuItem.Name = "اصلیToolStripMenuItem"
-        ' 
-        ' خروجToolStripMenuItem
-        ' 
-        resources.ApplyResources(خروجToolStripMenuItem, "خروجToolStripMenuItem")
-        خروجToolStripMenuItem.Name = "خروجToolStripMenuItem"
         ' 
         ' btnCloseApplication
         ' 
         resources.ApplyResources(btnCloseApplication, "btnCloseApplication")
         btnCloseApplication.Name = "btnCloseApplication"
+        ' 
+        ' btnHideWindow
+        ' 
+        resources.ApplyResources(btnHideWindow, "btnHideWindow")
+        btnHideWindow.Name = "btnHideWindow"
         ' 
         ' تنظیماتToolStripMenuItem
         ' 
@@ -108,7 +108,6 @@ Partial Class Form1
         ' 
         ' Timer1
         ' 
-        Timer1.Enabled = True
         Timer1.Interval = 1000
         ' 
         ' Form1
@@ -132,7 +131,6 @@ Partial Class Form1
     Friend WithEvents MenuStrip1 As MenuStrip
     Friend WithEvents اصلیToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents NotifyIcon1 As NotifyIcon
-    Friend WithEvents خروجToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents btnCloseApplication As ToolStripMenuItem
     Friend WithEvents تنظیماتToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents btnPrinters As ToolStripMenuItem
@@ -142,5 +140,6 @@ Partial Class Form1
     Friend WithEvents statusLabel As ToolStripStatusLabel
     Friend WithEvents Timer1 As Timer
     Friend WithEvents ToolStripStatusLabel1 As ToolStripStatusLabel
+    Friend WithEvents btnHideWindow As ToolStripMenuItem
 
 End Class

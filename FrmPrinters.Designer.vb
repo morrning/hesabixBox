@@ -117,7 +117,8 @@ Partial Class FrmPrinters
         ' 
         ' OpenFileDialog1
         ' 
-        OpenFileDialog1.FileName = "OpenFileDialog1"
+        OpenFileDialog1.FileName = "Acrobat.exe"
+        OpenFileDialog1.Title = "انتخاب برنامه آکروبات ریدر"
         ' 
         ' txtArco
         ' 

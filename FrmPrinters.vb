@@ -9,8 +9,11 @@
             Me.cobSell.Items.Add(InstalledPrinters)
         Next InstalledPrinters
         Me.ComboBox1.Items.Add("Off")
+        Me.ComboBox1.Text = "Off"
         Me.ComboBox2.Items.Add("Off")
+        Me.ComboBox2.Text = "Off"
         Me.cobSell.Items.Add("Off")
+        Me.cobSell.Text = "Off"
 
         ' Set the combo to the first printer in the list
         Me.ComboBox1.SelectedItem = My.Settings.printerFastSellInvoice

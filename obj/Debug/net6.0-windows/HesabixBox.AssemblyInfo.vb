@@ -18,7 +18,7 @@ Imports System.Reflection
  Assembly: System.Reflection.AssemblyCopyrightAttribute("Published Under the GNU GPL V3"),  _
  Assembly: System.Reflection.AssemblyDescriptionAttribute("حسابیکس باکس سرویس تحت ویندوز سرویس های حسابیکس است."),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c5da19cf599aac97767a4039148495cf51b9c97"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("حسابیکس باکس"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("HesabixBox"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

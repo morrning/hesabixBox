@@ -118,14 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="خروجToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+  <data name="btnHideWindow.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 22</value>
   </data>
-  <data name="خروجToolStripMenuItem.Text" xml:space="preserve">
+  <data name="btnHideWindow.Text" xml:space="preserve">
     <value>پنجره مخفی</value>
   </data>
   <data name="btnCloseApplication.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
+    <value>132, 22</value>
   </data>
   <data name="btnPrinters.Size" type="System.Drawing.Size, System.Drawing">
     <value>149, 22</value>

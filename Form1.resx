@@ -117,88 +117,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;Button1.Name" xml:space="preserve">
-    <value>Button1</value>
-  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="اصلیToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 20</value>
-  </data>
-  <data name="&gt;&gt;صندوقToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;StatusStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="دربارهبرنامهToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>173, 22</value>
-  </data>
-  <data name="NotifyIcon1.BalloonTipText" xml:space="preserve">
-    <value>برنامه جهت جلوگیری از قطع شدن پرینترهای ابری در پس ضمینه در حال اجراست.</value>
-  </data>
-  <data name="فاکتورجدیدToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>146, 22</value>
-  </data>
-  <data name="&gt;&gt;تنظیماتToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="لیستفاکتورهاToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>146, 22</value>
-  </data>
-  <data name="&gt;&gt;دربارهToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;خروجToolStripMenuItem.Name" xml:space="preserve">
-    <value>خروجToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;ToolStripStatusLabel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="NotifyIcon1.Text" xml:space="preserve">
-    <value>حسابیکس باکس</value>
-  </data>
-  <data name="خروجToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>131, 22</value>
-  </data>
-  <data name="btnPrinters.Size" type="System.Drawing.Size, System.Drawing">
-    <value>99, 22</value>
-  </data>
-  <data name="&gt;&gt;statusLabel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Button1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="دربارهبرنامهToolStripMenuItem.Text" xml:space="preserve">
-    <value>درباره برنامه</value>
-  </data>
-  <data name="statusLabel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>0, 17</value>
-  </data>
-  <data name="&gt;&gt;btnNewInvoice.Name" xml:space="preserve">
-    <value>btnNewInvoice</value>
-  </data>
-  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="NotifyIcon1.Visible" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="فاکتورجدیدToolStripMenuItem.Text" xml:space="preserve">
-    <value>فاکتور جدید</value>
-  </data>
-  <data name="btnPrinters.Text" xml:space="preserve">
-    <value>چاپگر</value>
-  </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;StatusStrip1.Name" xml:space="preserve">
-    <value>StatusStrip1</value>
-  </data>
-  <data name="&gt;&gt;Timer1.Name" xml:space="preserve">
-    <value>Timer1</value>
-  </data>
-  <data name="&gt;&gt;MenuStrip1.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="دربارهToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 20</value>
   </data>
   <data name="NotifyIcon1.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -869,129 +790,51 @@
         uznmmGOOOeaYY4455phjjjnmmGOOOeaYY4455phjjgr/PwCco78+h3qpAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="دربارهToolStripMenuItem.Text" xml:space="preserve">
-    <value>درباره</value>
+  <data name="&gt;&gt;btnPrinters.Name" xml:space="preserve">
+    <value>btnPrinters</value>
   </data>
-  <data name="&gt;&gt;Button1.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="لیستفاکتورهاToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>181, 22</value>
   </data>
-  <data name="Button1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 23</value>
+  <data name="&gt;&gt;MenuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btnCloseApplication.Text" xml:space="preserve">
-    <value>بستن برنامه</value>
+  <data name="btnNewInvoice.Size" type="System.Drawing.Size, System.Drawing">
+    <value>180, 22</value>
   </data>
-  <data name="&gt;&gt;دربارهبرنامهToolStripMenuItem.Type" xml:space="preserve">
+  <data name="&gt;&gt;دربارهToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;لیستفاکتورهاToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnCloseApplication.Size" type="System.Drawing.Size, System.Drawing">
-    <value>131, 22</value>
-  </data>
-  <data name="&gt;&gt;وبسایتحسابیکسToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;NotifyIcon1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.NotifyIcon, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;Timer1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;صندوقToolStripMenuItem.Name" xml:space="preserve">
-    <value>صندوقToolStripMenuItem</value>
-  </data>
-  <data name="Button1.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="&gt;&gt;statusLabel.Name" xml:space="preserve">
-    <value>statusLabel</value>
-  </data>
-  <data name="&gt;&gt;btnHideWindow.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ToolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>119, 17</value>
-  </data>
-  <data name="&gt;&gt;فاکتورجدیدToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="تنظیماتToolStripMenuItem.Text" xml:space="preserve">
-    <value>تنظیمات</value>
-  </data>
-  <data name="&gt;&gt;اصلیToolStripMenuItem.Name" xml:space="preserve">
-    <value>اصلیToolStripMenuItem</value>
-  </data>
-  <data name="اصلیToolStripMenuItem.Text" xml:space="preserve">
-    <value>اصلی</value>
-  </data>
-  <data name="&gt;&gt;اصلیToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;StatusStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
-    <value>Yes</value>
-  </data>
-  <data name="&gt;&gt;btnPrinters.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnCloseApplication.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>حسابداری آنلاین حسابیکس</value>
-  </data>
-  <data name="وبسایتحسابیکسToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>173, 22</value>
-  </data>
-  <data name="لیستفاکتورهاToolStripMenuItem.Text" xml:space="preserve">
-    <value>لیست فاکتورها</value>
-  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="&gt;&gt;فاکتورجدیدToolStripMenuItem.Name" xml:space="preserve">
-    <value>فاکتورجدیدToolStripMenuItem</value>
+  <data name="&gt;&gt;statusLabel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="صندوقToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 20</value>
+  <data name="&gt;&gt;دربارهToolStripMenuItem.Name" xml:space="preserve">
+    <value>دربارهToolStripMenuItem</value>
+  </data>
+  <data name="NotifyIcon1.BalloonTipTitle" xml:space="preserve">
+    <value>حسابیکس باکس</value>
+  </data>
+  <data name="&gt;&gt;MenuStrip1.Name" xml:space="preserve">
+    <value>MenuStrip1</value>
   </data>
   <data name="StatusStrip1.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="MenuStrip1.Text" xml:space="preserve">
-    <value>MenuStrip1</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 14</value>
-  </data>
-  <data name="دربارهToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>47, 20</value>
-  </data>
-  <data name="&gt;&gt;btnNewInvoice.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnCloseApplication.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="MenuStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
+  <data name="دربارهToolStripMenuItem.Text" xml:space="preserve">
+    <value>درباره</value>
   </data>
-  <data name="&gt;&gt;لیستفاکتورهاToolStripMenuItem.Name" xml:space="preserve">
-    <value>لیستفاکتورهاToolStripMenuItem</value>
+  <data name="Button1.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
   </data>
-  <data name="MenuStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="تنظیماتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 20</value>
-  </data>
-  <data name="StatusStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 398</value>
+  <data name="Button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>184, 83</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -1662,107 +1505,264 @@
         uznmmGOOOeaYY4455phjjjnmmGOOOeaYY4455phjjgr/PwCco78+h3qpAAAAAElFTkSuQmCC
 </value>
   </data>
-  <data name="&gt;&gt;StatusStrip1.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="&gt;&gt;ToolStripStatusLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;دربارهToolStripMenuItem.Name" xml:space="preserve">
-    <value>دربارهToolStripMenuItem</value>
+  <data name="لیستفاکتورهاToolStripMenuItem.Text" xml:space="preserve">
+    <value>لیست فاکتورها</value>
   </data>
-  <data name="&gt;&gt;تنظیماتToolStripMenuItem.Name" xml:space="preserve">
-    <value>تنظیماتToolStripMenuItem</value>
+  <data name="MenuStrip1.Text" xml:space="preserve">
+    <value>MenuStrip1</value>
   </data>
-  <data name="لیستفاکتورهاToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>181, 22</value>
+  <data name="&gt;&gt;فاکتورجدیدToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;دربارهبرنامهToolStripMenuItem.Name" xml:space="preserve">
-    <value>دربارهبرنامهToolStripMenuItem</value>
-  </data>
-  <data name="وبسایتحسابیکسToolStripMenuItem.Text" xml:space="preserve">
-    <value>وب سایت حسابیکس</value>
-  </data>
-  <data name="&gt;&gt;MenuStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnPrinters.Name" xml:space="preserve">
-    <value>btnPrinters</value>
-  </data>
-  <data name="&gt;&gt;وبسایتحسابیکسToolStripMenuItem.Name" xml:space="preserve">
-    <value>وبسایتحسابیکسToolStripMenuItem</value>
+  <data name="Button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 23</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>
   </data>
-  <data name="&gt;&gt;MenuStrip1.Name" xml:space="preserve">
-    <value>MenuStrip1</value>
+  <data name="لیستفاکتورهاToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 22</value>
   </data>
-  <data name="&gt;&gt;btnCloseApplication.Name" xml:space="preserve">
-    <value>btnCloseApplication</value>
-  </data>
-  <data name="صندوقToolStripMenuItem.Text" xml:space="preserve">
-    <value>صندوق</value>
-  </data>
-  <data name="&gt;&gt;ToolStripStatusLabel1.Name" xml:space="preserve">
-    <value>ToolStripStatusLabel1</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>800, 420</value>
-  </data>
-  <data name="&gt;&gt;Button1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="MenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>800, 24</value>
-  </data>
-  <data name="&gt;&gt;btnHideWindow.Name" xml:space="preserve">
-    <value>btnHideWindow</value>
-  </data>
-  <data name="خروجToolStripMenuItem.Text" xml:space="preserve">
-    <value>خروج</value>
-  </data>
-  <data name="btnNewInvoice.Size" type="System.Drawing.Size, System.Drawing">
-    <value>180, 22</value>
-  </data>
-  <data name="&gt;&gt;لیستفاکتورهاToolStripMenuItem1.Name" xml:space="preserve">
-    <value>لیستفاکتورهاToolStripMenuItem1</value>
-  </data>
-  <data name="Button1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>184, 83</value>
-  </data>
-  <data name="&gt;&gt;MenuStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Tahoma, 9pt</value>
+  <data name="&gt;&gt;وبسایتحسابیکسToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="btnHideWindow.Size" type="System.Drawing.Size, System.Drawing">
     <value>180, 22</value>
   </data>
+  <data name="دربارهبرنامهToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>173, 22</value>
+  </data>
   <data name="&gt;&gt;NotifyIcon1.Name" xml:space="preserve">
     <value>NotifyIcon1</value>
   </data>
-  <data name="NotifyIcon1.BalloonTipTitle" xml:space="preserve">
-    <value>حسابیکس باکس</value>
+  <data name="تنظیماتToolStripMenuItem.Text" xml:space="preserve">
+    <value>تنظیمات</value>
+  </data>
+  <data name="&gt;&gt;خروجToolStripMenuItem.Name" xml:space="preserve">
+    <value>خروجToolStripMenuItem</value>
+  </data>
+  <data name="فاکتورجدیدToolStripMenuItem.Text" xml:space="preserve">
+    <value>فاکتور جدید</value>
+  </data>
+  <data name="&gt;&gt;btnNewInvoice.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="StatusStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 398</value>
+  </data>
+  <data name="خروجToolStripMenuItem.Text" xml:space="preserve">
+    <value>خروج</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="&gt;&gt;NotifyIcon1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.NotifyIcon, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnPrinters.Text" xml:space="preserve">
+    <value>چاپگر</value>
+  </data>
+  <data name="&gt;&gt;StatusStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;تنظیماتToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="NotifyIcon1.BalloonTipText" xml:space="preserve">
+    <value>برنامه جهت جلوگیری از قطع شدن پرینترهای ابری در پس ضمینه در حال اجراست.</value>
+  </data>
+  <data name="خروجToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 22</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;StatusStrip1.Name" xml:space="preserve">
+    <value>StatusStrip1</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>800, 420</value>
+  </data>
+  <data name="&gt;&gt;صندوقToolStripMenuItem.Name" xml:space="preserve">
+    <value>صندوقToolStripMenuItem</value>
+  </data>
+  <data name="NotifyIcon1.Visible" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="MenuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
   <data name="&gt;&gt;لیستفاکتورهاToolStripMenuItem1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="MenuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>800, 24</value>
+  </data>
+  <data name="&gt;&gt;لیستفاکتورهاToolStripMenuItem.Name" xml:space="preserve">
+    <value>لیستفاکتورهاToolStripMenuItem</value>
+  </data>
+  <data name="صندوقToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>56, 20</value>
+  </data>
+  <data name="&gt;&gt;btnHideWindow.Name" xml:space="preserve">
+    <value>btnHideWindow</value>
+  </data>
+  <data name="statusLabel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 17</value>
+  </data>
+  <data name="ToolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 17</value>
+  </data>
+  <data name="اصلیToolStripMenuItem.Text" xml:space="preserve">
+    <value>اصلی</value>
+  </data>
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="&gt;&gt;Button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;فاکتورجدیدToolStripMenuItem.Name" xml:space="preserve">
+    <value>فاکتورجدیدToolStripMenuItem</value>
+  </data>
+  <data name="تنظیماتToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>62, 20</value>
+  </data>
+  <data name="btnCloseApplication.Text" xml:space="preserve">
+    <value>بستن برنامه</value>
+  </data>
+  <data name="NotifyIcon1.Text" xml:space="preserve">
+    <value>حسابیکس باکس</value>
+  </data>
+  <data name="&gt;&gt;اصلیToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;تنظیماتToolStripMenuItem.Name" xml:space="preserve">
+    <value>تنظیماتToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;Timer1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Timer, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnHideWindow.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnNewInvoice.Name" xml:space="preserve">
+    <value>btnNewInvoice</value>
+  </data>
+  <data name="وبسایتحسابیکسToolStripMenuItem.Text" xml:space="preserve">
+    <value>وب سایت حسابیکس</value>
+  </data>
+  <data name="&gt;&gt;دربارهبرنامهToolStripMenuItem.Name" xml:space="preserve">
+    <value>دربارهبرنامهToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;StatusStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MenuStrip1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 14</value>
+  </data>
+  <data name="&gt;&gt;StatusStrip1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="وبسایتحسابیکسToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>173, 22</value>
+  </data>
+  <data name="فاکتورجدیدToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>146, 22</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 9pt</value>
+  </data>
+  <data name="btnCloseApplication.Size" type="System.Drawing.Size, System.Drawing">
+    <value>131, 22</value>
+  </data>
   <data name="&gt;&gt;خروجToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>حسابداری آنلاین حسابیکس</value>
+  </data>
+  <data name="&gt;&gt;Button1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;statusLabel.Name" xml:space="preserve">
+    <value>statusLabel</value>
+  </data>
+  <data name="&gt;&gt;Timer1.Name" xml:space="preserve">
+    <value>Timer1</value>
+  </data>
+  <data name="&gt;&gt;btnCloseApplication.Name" xml:space="preserve">
+    <value>btnCloseApplication</value>
+  </data>
+  <data name="&gt;&gt;Button1.Name" xml:space="preserve">
+    <value>Button1</value>
+  </data>
+  <data name="&gt;&gt;لیستفاکتورهاToolStripMenuItem1.Name" xml:space="preserve">
+    <value>لیستفاکتورهاToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;btnPrinters.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;لیستفاکتورهاToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="btnPrinters.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 22</value>
+  </data>
+  <data name="&gt;&gt;MenuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="MenuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;صندوقToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="اصلیToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 20</value>
+  </data>
+  <data name="صندوقToolStripMenuItem.Text" xml:space="preserve">
+    <value>صندوق</value>
+  </data>
+  <data name="&gt;&gt;وبسایتحسابیکسToolStripMenuItem.Name" xml:space="preserve">
+    <value>وبسایتحسابیکسToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;اصلیToolStripMenuItem.Name" xml:space="preserve">
+    <value>اصلیToolStripMenuItem</value>
+  </data>
+  <data name="دربارهبرنامهToolStripMenuItem.Text" xml:space="preserve">
+    <value>درباره برنامه</value>
+  </data>
+  <data name="&gt;&gt;ToolStripStatusLabel1.Name" xml:space="preserve">
+    <value>ToolStripStatusLabel1</value>
+  </data>
+  <data name="&gt;&gt;دربارهبرنامهToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <metadata name="NotifyIcon1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
-  </metadata>
-  <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="StatusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>248, 17</value>
   </metadata>
   <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
     <value>fa-IR</value>
   </metadata>
-  <metadata name="NotifyIcon1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>132, 17</value>
+  <metadata name="StatusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>248, 17</value>
+  </metadata>
+  <metadata name="MenuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
   </metadata>
   <metadata name="Timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>364, 17</value>

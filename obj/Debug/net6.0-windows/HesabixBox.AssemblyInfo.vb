@@ -13,15 +13,15 @@ Option Explicit On
 
 Imports System
 Imports System.Reflection
-<Assembly: System.Reflection.AssemblyCompanyAttribute("TFS Company"),  _
+<Assembly: System.Reflection.AssemblyCompanyAttribute("Hesabix"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyCopyrightAttribute("Published Under the GNU GPL V3"),  _
  Assembly: System.Reflection.AssemblyDescriptionAttribute("حسابیکس باکس سرویس تحت ویندوز سرویس های حسابیکس است."),  _
- Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c5da19cf599aac97767a4039148495cf51b9c97"),  _
- Assembly: System.Reflection.AssemblyProductAttribute("حسابیکس باکس"),  _
+ Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+0629e2ba5f40176f363445d676dec81769d454a6"),  _
+ Assembly: System.Reflection.AssemblyProductAttribute("HesabixBox"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("HesabixBox"),  _
- Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
+ Assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0"),  _
  Assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0"),  _
  Assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")> 
 

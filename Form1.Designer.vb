@@ -26,8 +26,8 @@ Partial Class Form1
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         MenuStrip1 = New MenuStrip()
         اصلیToolStripMenuItem = New ToolStripMenuItem()
-        btnCloseApplication = New ToolStripMenuItem()
         btnHideWindow = New ToolStripMenuItem()
+        btnCloseApplication = New ToolStripMenuItem()
         تنظیماتToolStripMenuItem = New ToolStripMenuItem()
         btnPrinters = New ToolStripMenuItem()
         دربارهToolStripMenuItem = New ToolStripMenuItem()
@@ -53,15 +53,18 @@ Partial Class Form1
         اصلیToolStripMenuItem.DropDownItems.AddRange(New ToolStripItem() {btnHideWindow, btnCloseApplication})
         اصلیToolStripMenuItem.Name = "اصلیToolStripMenuItem"
         ' 
-        ' btnCloseApplication
-        ' 
-        resources.ApplyResources(btnCloseApplication, "btnCloseApplication")
-        btnCloseApplication.Name = "btnCloseApplication"
-        ' 
         ' btnHideWindow
         ' 
         resources.ApplyResources(btnHideWindow, "btnHideWindow")
+        btnHideWindow.Checked = True
+        btnHideWindow.CheckState = CheckState.Checked
         btnHideWindow.Name = "btnHideWindow"
+        ' 
+        ' btnCloseApplication
+        ' 
+        resources.ApplyResources(btnCloseApplication, "btnCloseApplication")
+        btnCloseApplication.Image = My.Resources.Resources.logo_blue_1fB_icon
+        btnCloseApplication.Name = "btnCloseApplication"
         ' 
         ' تنظیماتToolStripMenuItem
         ' 

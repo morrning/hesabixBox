@@ -19,6 +19,7 @@
         Me.ComboBox1.SelectedItem = My.Settings.printerFastSellInvoice
         Me.ComboBox2.SelectedItem = My.Settings.printerFastSellCashdeskInvoice
         Me.ComboBox2.SelectedItem = My.Settings.printerSell
+        Me.TxtToken.Text = My.Settings.printerToken
         Me.txtArco.Text = My.Settings.AcrobatPath
     End Sub
 

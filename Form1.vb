@@ -2,6 +2,7 @@
 Imports System.Text
 Imports System.Threading
 Imports System.Windows.Forms.VisualStyles.VisualStyleElement
+Imports Microsoft.VisualBasic.FileIO
 
 Public Class Form1
     Dim api As New ApiInterface
@@ -25,7 +26,6 @@ Public Class Form1
         FrmLogin.StartPosition = FormStartPosition.CenterScreen
         FrmLogin.MdiParent = Me
         FrmLogin.Show()
-
     End Sub
 
     Private Sub btnCloseApplication_Click(sender As Object, e As EventArgs) Handles btnCloseApplication.Click
@@ -51,6 +51,7 @@ Public Class Form1
         Dim SPrinter As String
         Dim res() As String = file.Split(",")
         Dim canPrint As Boolean = False
+
         If file <> "" Then
             If (res(0) = "fastSellInvoice" And My.Settings.printerFastSellInvoice <> "Off") Then
                 SPrinter = My.Settings.printerFastSellInvoice
@@ -66,13 +67,13 @@ Public Class Form1
             If canPrint Then
                 api.downloadFile(res(1), res(0))
                 Dim pathToExecutable As String = My.Settings.AcrobatPath
-                Dim sReport = Application.StartupPath + res(0) + ".pdf"
+                Dim sReport = SpecialDirectories.CurrentUserApplicationData.ToString + "\" + res(0) + ".pdf"
                 Dim starter As New ProcessStartInfo(pathToExecutable, "/t """ + sReport + """ """ + SPrinter + """")
                 starter.WindowStyle = ProcessWindowStyle.Hidden
                 Dim Process As New Process()
                 Process.StartInfo = starter
                 Process.Start()
-                Process.WaitForExit(10000)
+                Process.WaitForExit(8000)
                 Process.Kill()
                 Process.Close()
             End If

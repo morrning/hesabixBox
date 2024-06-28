@@ -10,11 +10,11 @@
     <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
     <Copyright>Published Under the GNU GPL V3</Copyright>
     <Description>حسابیکس باکس سرویس تحت ویندوز سرویس های حسابیکس است.</Description>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Title>Hesabix Box</Title>
     <Authors>$(AssemblyName)</Authors>
-    <Company>TFS Company</Company>
-    <Product>حسابیکس باکس</Product>
+    <Company>Hesabix</Company>
+    <Product>HesabixBox</Product>
     <PackageProjectUrl>https://hesabix.ir</PackageProjectUrl>
     <Configurations>Debug;Release</Configurations>
   </PropertyGroup>

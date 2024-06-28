@@ -2,6 +2,7 @@
 Imports System.Text
 Imports System.Text.Json.Nodes
 Imports System.Text.Json.Serialization
+Imports Microsoft.VisualBasic.FileIO
 
 Public Class ApiInterface
 
@@ -39,8 +40,9 @@ Public Class ApiInterface
         Dim webClient As New Net.WebClient
         webClient.Headers.Add("api-key", My.Settings.token)
         webClient.Headers.Add("printer-key", My.Settings.printerToken)
+        Return webClient.DownloadString(My.Settings.apiUrl + "/api/print/last")
+
         Try
-            Return webClient.DownloadString(My.Settings.apiUrl + "/api/print/last")
         Catch ex As Exception
             Return ""
         End Try
@@ -49,7 +51,7 @@ Public Class ApiInterface
     Public Function downloadFile(ByVal name As String, ByVal type As String)
         Dim webClient As New Net.WebClient
         webClient.Headers.Add("api-key", My.Settings.token)
-        Dim fileName As String = type + ".pdf"
+        Dim fileName As String = SpecialDirectories.CurrentUserApplicationData.ToString + "\" + type + ".pdf"
         webClient.DownloadFile(My.Settings.apiUrl + "/front/print/" + name, fileName)
         Try
 

@@ -16,7 +16,7 @@
     <Company>TFS Company</Company>
     <Product>حسابیکس باکس</Product>
     <PackageProjectUrl>https://hesabix.ir</PackageProjectUrl>
-    <Configurations>Debug;Release;HesabixBoxRelease</Configurations>
+    <Configurations>Debug;Release</Configurations>
   </PropertyGroup>
 
   <ItemGroup>

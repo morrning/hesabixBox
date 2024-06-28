@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\HesabixBox\\HesabixBox.vbproj": {}
+    "D:\\HesabixBox\\HesabixBox.vbproj": {}
   },
   "projects": {
-    "C:\\projects\\HesabixBox\\HesabixBox.vbproj": {
+    "D:\\HesabixBox\\HesabixBox.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\HesabixBox\\HesabixBox.vbproj",
+        "projectUniqueName": "D:\\HesabixBox\\HesabixBox.vbproj",
         "projectName": "HesabixBox",
-        "projectPath": "C:\\projects\\HesabixBox\\HesabixBox.vbproj",
+        "projectPath": "D:\\HesabixBox\\HesabixBox.vbproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\HesabixBox\\obj\\",
+        "outputPath": "D:\\HesabixBox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

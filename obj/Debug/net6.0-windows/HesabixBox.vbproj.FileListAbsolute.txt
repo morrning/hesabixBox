@@ -20,6 +20,7 @@ C:\projects\HesabixBox\obj\Debug\net6.0-windows\HesabixBox.GeneratedMSBuildEdito
 C:\projects\HesabixBox\obj\Debug\net6.0-windows\HesabixBox.AssemblyInfoInputs.cache
 C:\projects\HesabixBox\obj\Debug\net6.0-windows\HesabixBox.AssemblyInfo.vb
 C:\projects\HesabixBox\obj\Debug\net6.0-windows\HesabixBox.vbproj.CoreCompileInputs.cache
+C:\projects\HesabixBox\obj\Debug\net6.0-windows\HesabixBox.sourcelink.json
 C:\projects\HesabixBox\obj\Debug\net6.0-windows\fa-IR\HesabixBox.resources.dll
 C:\projects\HesabixBox\obj\Debug\net6.0-windows\HesabixBox.vbproj.CopyComplete
 C:\projects\HesabixBox\obj\Debug\net6.0-windows\HesabixBox.dll
